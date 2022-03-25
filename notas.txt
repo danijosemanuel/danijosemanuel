@@ -9,4 +9,3 @@ Taller 2: Nota  Deben sustentar
     * operacion de area rectangulo erronea
     * punto 3, no debe pedir el radio, es el diametro
     * Falta el volumen de la esfera
-    * 

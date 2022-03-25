@@ -5,10 +5,9 @@ realizado popr:daniela ospina y jose manuel
 console.log("solucion punto 1");
 var lado;
 lado = prompt("por favor hallar el area de un cuadrado");
-console.log(areacuadrado);
 var areacuadrado= lado**2;
+console.log(areacuadrado);
 //volumen cubo
-var lado;
 lado = prompt("por favo hallar el volumen del cubo");
 console.log(volumencubo);
 var volumencubo = lado**3;
@@ -23,10 +22,19 @@ console.log("El Area es de " + (base + altura));
 
 console.log("Punto 3");
 
-var radio;
-radio = parseInt(prompt("Favor Ingresar El Radio") );
-console.log("El Area Del Circulo Es ", Math.PI * radio * radio)
-
+var diametro;
+diametro = parseInt(prompt("Favor Ingresar El diametro"));
+var areacirculo
+areacirculo= Math.PI * diametro / 2 
+var areatotal
+areatotal=Math.PI* areacirculo**2
+console.log("El Area Del Circulo Es ", areatotal);
+//volumen de la esfera
+var volumenesfera
+var radio 
+radio=diametro/2
+volumenesfera= 4/3* Math.PI* radio
+console.log ("el volumen e la esfera es ", volumenesfera);
 console.log("Punto 4");
 
 var base1;
