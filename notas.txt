@@ -1,3 +1,6 @@
+ jose Manuel Garcia
+
+
 Taller 1: Nota 4
     * el grado debe ser inicializado
     * mensaje en linea 12 incompleto
@@ -9,3 +12,5 @@ Taller 2: Nota  Deben sustentar
     * operacion de area rectangulo erronea
     * punto 3, no debe pedir el radio, es el diametro
     * Falta el volumen de la esfera
+
+Taller 3: Nota 4.5 en el primer taller y 4.2 en el segundo
